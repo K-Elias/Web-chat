@@ -1,2 +1,2 @@
-# Web-chat
-An online chat in node.js using the Websocket library.
+# websockets-playlist
+All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
